@@ -3,7 +3,7 @@ using System.Diagnostics;
 using System.IO;
 using System.Text.RegularExpressions;
 
-namespace DollarRegex;
+namespace TelephoneRegex;
 
 internal static partial class Program
 {
